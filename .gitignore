@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+sampleSubmission.csv
+train.zip
+test1.zip
+/train/*.jpg
+/test1/*.jpg
+/logs
