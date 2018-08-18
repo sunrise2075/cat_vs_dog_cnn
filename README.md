@@ -10,7 +10,7 @@
 
 在`kaggle.json`中输入以下内容：
 
-	{"username":"sunrise2075","key":"{你自己的kaggle加密token}"}
+	{"username":"{你的kaggle注册用户名}","key":"你的kaggle认证token"}
 
 执行如下命令：
 

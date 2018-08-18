@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 sampleSubmission.csv
+kaggle.json
 train.zip
 test1.zip
 /train/*.jpg
