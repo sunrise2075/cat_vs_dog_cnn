@@ -3,6 +3,10 @@ sampleSubmission.csv
 kaggle.json
 train.zip
 test1.zip
-/train/*.jpg
-/test1/*.jpg
+/train/*
+/test1/*
+/train1/cat/*
+/train1/dog/*
+/valid/cat/*
+/valid/dog/*
 /logs
