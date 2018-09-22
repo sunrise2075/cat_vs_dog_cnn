@@ -16,7 +16,7 @@
 
 	chmod 600 ~/.kaggle/kaggle.json
 
-	kaggle competitions download -c dogs-vs-cats
+	kaggle competitions download -c dogs-vs-cats-redux-kernels-edition
 
 
 
