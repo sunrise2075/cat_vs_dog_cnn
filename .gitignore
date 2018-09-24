@@ -7,5 +7,6 @@ test.zip
 /test1
 /train1
 /valid
+final_model_weights.h5
 sample_submission.csv
 /logs
