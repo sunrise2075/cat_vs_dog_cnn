@@ -9,4 +9,5 @@ test.zip
 /valid
 final_model_weights.h5
 sample_submission.csv
+best_model.json
 /logs
